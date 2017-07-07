@@ -1,0 +1,9 @@
+Andi 1 5 0 4 3
+Andras 0 1 2 3 0 
+Bela 2 1 0 0 0
+Karoly 0 3 1 0 0
+Laci 3 2 1 0 0
+Pal 0 10 0 0 0
+Zoli 5 0 1 0 3
+Zsiga 3 1 3 2 2
+

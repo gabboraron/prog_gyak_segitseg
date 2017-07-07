@@ -1,0 +1,7 @@
+Andras 0 1 2 3 0 
+Bela 2 1 1 0 0 
+Huba 0 0 0 0 15 
+Karoly 0 3 1 0 0 
+Pal 0 10 0 0 0 
+Sanyi 3 4 1 0 1 
+Walter 5 0 5 0 0 

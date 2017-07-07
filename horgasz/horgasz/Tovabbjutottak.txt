@@ -1,0 +1,7 @@
+Andi 1 5 0 4 3 
+Feri 1 2 3 10 0 
+Kati 11 12 0 2 0 
+Laci 5 5 1 0 0 
+Peter 0 1 1 0 10 
+Zoli 5 0 4 0 3 
+Zsiga 3 1 3 2 2 

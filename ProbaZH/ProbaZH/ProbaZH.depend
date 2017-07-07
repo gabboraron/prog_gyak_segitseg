@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494961590 source:d:\programozás\2017\gyakorlatok\gyak12\probazh\main.cpp
+	<iostream>
+	"enor.h"
+
+1494961515 source:d:\programozás\2017\gyakorlatok\gyak12\probazh\enor.cpp
+	"enor.h"
+	<iostream>
+	<sstream>
+
+1494961467 d:\programozás\2017\gyakorlatok\gyak12\probazh\enor.h
+	<fstream>
+	<vector>
+	<string>
+

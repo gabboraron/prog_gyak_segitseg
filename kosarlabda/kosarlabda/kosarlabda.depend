@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1398812175 source:d:\anna\programozás\2014\gyakorlatok\gyak10\kosarlabda\seqoutfile.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"seqoutfile.h"
+
+1398812348 source:d:\anna\programozás\2014\gyakorlatok\gyak10\kosarlabda\main.cpp
+	<iostream>
+	<stdlib.h>
+	"common.h"
+	"seqinfile.h"
+	"seqoutfile.h"
+
+1398812562 source:d:\anna\programozás\2014\gyakorlatok\gyak10\kosarlabda\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<sstream>
+	<iostream>
+
+1398811950 d:\anna\programozás\2014\gyakorlatok\gyak10\kosarlabda\seqinfile.h
+	<vector>
+	<fstream>
+	<string>
+	"common.h"
+
+1398808740 d:\anna\programozás\2014\gyakorlatok\gyak10\kosarlabda\common.h
+	<vector>
+
+1398808942 d:\anna\programozás\2014\gyakorlatok\gyak10\kosarlabda\seqoutfile.h
+	<fstream>
+	"common.h"
+
+1398816164 source:d:\programozás\2015\gyakorlatok\gyak11\kosarlabda\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<sstream>
+	<iostream>
+
+1398815552 d:\programozás\2015\gyakorlatok\gyak11\kosarlabda\seqinfile.h
+	<vector>
+	<fstream>
+	<string>
+	"common.h"
+
+1398812342 d:\programozás\2015\gyakorlatok\gyak11\kosarlabda\common.h
+	<vector>
+
+1398815776 source:d:\programozás\2015\gyakorlatok\gyak11\kosarlabda\seqoutfile.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"seqoutfile.h"
+
+1398812544 d:\programozás\2015\gyakorlatok\gyak11\kosarlabda\seqoutfile.h
+	<fstream>
+	"common.h"
+
+1461797127 source:d:\programozás\2016\gyakorlatok\gyak11\kosarlabda\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<sstream>
+	<iostream>
+
+1461796664 d:\programozás\2016\gyakorlatok\gyak11\kosarlabda\seqinfile.h
+	<vector>
+	<fstream>
+	<string>
+	"common.h"
+
+1398812342 d:\programozás\2016\gyakorlatok\gyak11\kosarlabda\common.h
+	<vector>
+
+1398815776 source:d:\programozás\2016\gyakorlatok\gyak11\kosarlabda\seqoutfile.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"seqoutfile.h"
+
+1398812544 d:\programozás\2016\gyakorlatok\gyak11\kosarlabda\seqoutfile.h
+	<fstream>
+	"common.h"
+
+1462394032 source:d:\programozás\2016\gyakorlatok\gyak11\kosarlabda\main.cpp
+	<iostream>
+	<stdlib.h>
+	"common.h"
+	"seqinfile.h"
+	"seqoutfile.h"
+

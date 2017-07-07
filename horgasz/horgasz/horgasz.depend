@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1272410247 source:d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\infile.cpp
+	<iostream>
+	"Infile.h"
+
+1272406448 d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\infile.h
+	<fstream>
+	"Horgasz.h"
+
+1272408771 d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\horgasz.h
+	<vector>
+
+1272405152 source:d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\outfile.cpp
+	<iostream>
+	<fstream>
+	"Horgasz.h"
+	"Outfile.h"
+
+1272405673 d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\outfile.h
+	"Horgasz.h"
+
+1272410247 source:d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\main.cpp
+	<iostream>
+	<vector>
+	"Horgasz.h"
+	"Infile.h"
+	"Outfile.h"
+
+1272408771 source:d:\d\programozás\2010\gyakorlatok\geptermi\gyak10\esti\horgasz\horgasz.cpp
+	<fstream>
+	<iostream>
+	"Horgasz.h"
+
+1272410248 source:d:\programozás\2010\gyakorlatok\geptermi\gyak10\nappali\horgasz\infile.cpp
+	<iostream>
+	"Infile.h"
+
+1272406450 d:\programozás\2010\gyakorlatok\geptermi\gyak10\nappali\horgasz\infile.h
+	<fstream>
+	"Horgasz.h"
+
+1272624097 d:\programozás\2010\gyakorlatok\geptermi\gyak10\nappali\horgasz\horgasz.h
+	<vector>
+
+1272405154 source:d:\programozás\2010\gyakorlatok\geptermi\gyak10\nappali\horgasz\outfile.cpp
+	<iostream>
+	<fstream>
+	"Horgasz.h"
+	"Outfile.h"
+
+1272405674 d:\programozás\2010\gyakorlatok\geptermi\gyak10\nappali\horgasz\outfile.h
+	"Horgasz.h"
+
+1272624097 source:d:\programozás\2010\gyakorlatok\geptermi\gyak10\nappali\horgasz\main.cpp
+	<iostream>
+	<vector>
+	"Horgasz.h"
+	"Infile.h"
+	"Outfile.h"
+
+1305118143 source:d:\programozás\2011\geptermigyak\gyak11\horgasz\infile.cpp
+	<iostream>
+	<stdlib.h>
+	"Infile.h"
+
+1272406450 d:\programozás\2011\geptermigyak\gyak11\horgasz\infile.h
+	<fstream>
+	"Horgasz.h"
+
+1305118086 d:\programozás\2011\geptermigyak\gyak11\horgasz\horgasz.h
+	<vector>
+
+1305118143 source:d:\programozás\2011\geptermigyak\gyak11\horgasz\outfile.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Horgasz.h"
+	"Outfile.h"
+
+1272405674 d:\programozás\2011\geptermigyak\gyak11\horgasz\outfile.h
+	"Horgasz.h"
+
+1305143541 source:d:\programozás\2011\geptermigyak\gyak11\horgasz\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"Horgasz.h"
+	"Infile.h"
+	"Outfile.h"
+
+1305118475 source:d:\programozás\2011\geptermigyak\gyak11\horgasz\horgasz.cpp
+	<fstream>
+	<iostream>
+	"Horgasz.h"
+
+1305118143 source:d:\programozás\2012\gyakorlat\gyak12\horgasz\infile.cpp
+	<iostream>
+	<stdlib.h>
+	"Infile.h"
+
+1272406450 d:\programozás\2012\gyakorlat\gyak12\horgasz\infile.h
+	<fstream>
+	"Horgasz.h"
+
+1368024526 d:\programozás\2012\gyakorlat\gyak12\horgasz\horgasz.h
+	<vector>
+
+1305118143 source:d:\programozás\2012\gyakorlat\gyak12\horgasz\outfile.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Horgasz.h"
+	"Outfile.h"
+
+1272405674 d:\programozás\2012\gyakorlat\gyak12\horgasz\outfile.h
+	"Horgasz.h"
+
+1305118475 source:d:\programozás\2012\gyakorlat\gyak12\horgasz\horgasz.cpp
+	<fstream>
+	<iostream>
+	"Horgasz.h"
+
+1337199450 source:d:\programozás\2012\gyakorlat\gyak12\horgasz\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"Horgasz.h"
+	"Infile.h"
+	"Outfile.h"
+
+1305121743 source:d:\programozás\2016\gyakorlatok\gyak12\horgasz\infile.cpp
+	<iostream>
+	<stdlib.h>
+	"Infile.h"
+
+1272410050 d:\programozás\2016\gyakorlatok\gyak12\horgasz\infile.h
+	<fstream>
+	"Horgasz.h"
+
+1368028126 d:\programozás\2016\gyakorlatok\gyak12\horgasz\horgasz.h
+	<vector>
+
+1305121743 source:d:\programozás\2016\gyakorlatok\gyak12\horgasz\outfile.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Horgasz.h"
+	"Outfile.h"
+
+1272409274 d:\programozás\2016\gyakorlatok\gyak12\horgasz\outfile.h
+	"Horgasz.h"
+
+1305122075 source:d:\programozás\2016\gyakorlatok\gyak12\horgasz\horgasz.cpp
+	<fstream>
+	<iostream>
+	"Horgasz.h"
+
+1462393691 source:d:\programozás\2016\gyakorlatok\gyak12\horgasz\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"Horgasz.h"
+	"Infile.h"
+	"Outfile.h"
+
